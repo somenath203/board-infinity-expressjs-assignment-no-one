@@ -1,12 +1,12 @@
 {
-  "name": "expressjs-assignment",
+  "name": "01_expressjs_assignment_one",
   "version": "1.0.0",
-  "description": "",
+  "description": "bi express.js project number one",
   "main": "index.js",
   "scripts": {
     "dev": "nodemon index.js"
   },
-  "author": "",
+  "author": "Somenath Choudhury",
   "license": "ISC",
   "dependencies": {
     "dotenv": "^16.0.1",
